@@ -1,5 +1,5 @@
 # 音乐播放器
-项目查看地址(切记网页分辨率要切换为移动端)： https://xiaojieajie.github.io/qqMusicPlayer/dist/index.html
+项目查看地址(切记网页分辨率要切换为移动端)： https://qiheizhiya.github.io/qqMusic/dist/index.html
 **第一次切换歌曲图片没变是github服务器有点慢，等一会就好了**
 ### 采用 Webpack + 面向对象 + ES6 + loader + plugin
 **下面是webpack的配置文件**
@@ -61,4 +61,4 @@ module.exports = {
 ```
 ### 注意这是移动端页面。要看移动端的分辨率才能正常观看
 **dist就是用webpack打包后的文件夹**
-项目查看地址： https://xiaojieajie.github.io/qqMusicPlayer/dist/index.html
+项目查看地址： https://qiheizhiya.github.io/qqMusic/dist/index.html
